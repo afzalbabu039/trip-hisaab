@@ -1,0 +1,7 @@
+{
+  "name": "TripHisaab",
+  "description": "Professional mobile app for Indian travelers to track and split travel expenses with a clean, card-based UI and Hinglish labels.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
